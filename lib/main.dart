@@ -6,7 +6,7 @@ void main() {
 }
 
 class CurrencyConverterApp extends StatelessWidget {
-  const CurrencyConverterApp({Key? key}) : super(key: key);
+  const CurrencyConverterApp({super.key});
 
   @override
   Widget build(BuildContext context) {

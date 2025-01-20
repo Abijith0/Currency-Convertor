@@ -15,4 +15,4 @@ A simple and intuitive Flutter app for converting currencies using real-time exc
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Abijith0/Currency-Convertor.git
